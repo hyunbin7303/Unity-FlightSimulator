@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/windows/mixed-reality/building-2d-apps
+
+https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-hololens-emulator
+
+https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-mixed-reality-simulator
+
+https://www.youtube.com/watch?v=a-v1eFwWRoo
